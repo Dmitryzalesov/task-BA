@@ -274,7 +274,7 @@ SAP передает на ЭТП изменение закупочной про�
 
 Диаграмма описывает взаимодействие SAP, ЭТП, заявок, сервиса уведомлений и Поставщика при возврате закупочной процедуры на этап «Подача заявок».
 
-![Sequence Diagram](diagrams\sequence-return-procedure.svg)
+![Sequence Diagram](diagrams/sequence-return-procedure.svg)
 ---
 
 ## 3. Интеграционный контракт
