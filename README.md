@@ -1,6 +1,6 @@
 # Test Assignment — Business Analyst
 
-## Task 1 — 
+## Task 1
 - Analyst process
 - Requirements analysis
 - Dev. task
